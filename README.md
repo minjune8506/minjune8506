@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, My Name is Minjune Kim.
+I'm a Student Developer learning at 42Seoul and Sungkonghoe University ✏️
+My major is Software Engineering.💻
 ![Minjune's github stats](https://github-readme-stats.vercel.app/api?username=minjune8506&show_icons=true&theme=vue)
