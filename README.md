@@ -19,11 +19,11 @@ My Name is Minjune Kim.
 
 :eyes:	I'm interested in ios mobile application.
 
-:mortar_board: Experience
+:mortar_board: **Experience**
 - 42Seoul - Cadet
 - Sungkonghoe University - Software Engineering
 
-:medal_military: Skills
+:medal_military: **Skills**
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
