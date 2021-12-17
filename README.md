@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My Name is Minjune Kim.
 
-I'm interested in ios mobile application.
+:eyes:	I'm interested in ios mobile application.
 
 :mortar_board: Experience
 - 42Seoul - Cadet
