@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Name is Minjune Kim.
-
-:eyes:	I'm interested in ios mobile application.
+My Name is Minjun Kim.
 
 :mortar_board: **Experience**
 - 42Seoul - Cadet
