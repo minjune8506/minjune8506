@@ -40,7 +40,9 @@ My Name is Minjun Kim.
 </div>
 
 #### Extra
+<div>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjune8506">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=minjune8506&count_private=true&show_icons=true&theme=buefy">
+</div>
 
