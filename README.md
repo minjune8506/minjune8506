@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My Name is Minjun Kim.
 
-:mortar_board: **Experience**
+## :mortar_board: Experience
 - 42Seoul - Cadet
 - Sungkonghoe University - Software Engineering
 
-:medal_military: **Skills**
+## :medal_military: Skills
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -31,7 +31,7 @@ My Name is Minjun Kim.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
 
-#### Contact
+## :postbox: Contact
 <div>
 <a href="mailto:minjune8506@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=minjune8506@gmail.com"/> </a>
 
@@ -39,10 +39,7 @@ My Name is Minjun Kim.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> </a>
 </div>
 
-#### Extra
-<div>
+## 🔭 Extra  
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjune8506">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=minjune8506&count_private=true&show_icons=true&theme=buefy">
-</div>
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=minjune8506&count_private=true&show_icons=true&theme=buefy" height="165">
