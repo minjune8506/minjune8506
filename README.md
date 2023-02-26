@@ -40,7 +40,8 @@ My Name is Minjun Kim.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> </a>
 </div>
 
-## 🔭 Extra  
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjune8506">
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=minjune8506&count_private=true&show_icons=true&theme=buefy" height="165">
+## 🔭 Extra 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img style="flex: 1; max-width: 50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjune8506">
+  <img style="flex: 1; max-width: 50%" src="https://github-readme-stats.vercel.app/api?username=minjune8506&count_private=true&show_icons=true&theme=buefy">
+</div>
