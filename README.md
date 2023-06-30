@@ -19,7 +19,7 @@ My Name is Minjun Kim.
 
 ## :mortar_board: Experience
 - Sungkonghoe University - Software Engineering
-- 42Seoul - Cadet
+- 42Seoul - Member
 
 ## :medal_military: Skills
 <div align="left">
