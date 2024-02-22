@@ -2,9 +2,9 @@
 My Name is Minjun Kim.
 
 ## :mortar_board: Experience
-- Sungkonghoe University - Software Engineering
-- 42Seoul - Member
 - Hyundai Autover - Backend Developer
+- 42Seoul - Member
+- Sungkonghoe University - Software Engineering
 
 ## :medal_military: Skills
 <div align="left">
