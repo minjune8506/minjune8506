@@ -1,5 +1,5 @@
 ### Hi 👋
-My Name is Minjun Kim.
+This is Minjun Kim.
 
 ## :mortar_board: Experience
 - Hyundai Autover - Backend Developer
@@ -18,8 +18,5 @@ My Name is Minjun Kim.
 <div>
 <a href="mailto:minjune8506@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=minjune8506@gmail.com" />
-</a>
-<a href="https://www.linkedin.com/in/minjune" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
 </div>
